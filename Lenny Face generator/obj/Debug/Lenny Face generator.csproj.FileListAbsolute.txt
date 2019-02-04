@@ -1,0 +1,53 @@
+c:\users\logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\obj\Debug\Lenny Face generator.csprojResolveAssemblyReference.cache
+c:\users\logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny Face generator.dll
+c:\users\logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny Face generator.pdb
+c:\users\logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny_Face_generator.Lenny_Face_generator.apk
+c:\users\logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny_Face_generator.Lenny_Face_generator-Signed.apk
+c:\users\logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\obj\Debug\Lenny Face generator.dll
+c:\users\logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\obj\Debug\Lenny Face generator.pdb
+c:\users\logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\obj\Debug\android\bin\Lenny_Face_generator.Lenny_Face_generator.apk
+c:\users\logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\obj\Debug\res\layout\main.xml
+c:\users\logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\obj\Debug\res\values\strings.xml
+c:\users\logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\obj\Debug\res\drawable\icon.png
+c:\users\logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\obj\Debug\R.cs.flag
+c:\users\logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\obj\Debug\uploadflags.txt
+C:\Users\Logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\obj\Debug\res\values\theme.xml
+C:\Users\Logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\obj\Debug\res\drawable\lennyface.png
+C:\Users\Logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\obj\Debug\Lenny Face generator.dll.mdb
+C:\Users\Logan\documents\visual studio 2015\Projects\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny Face generator.dll.mdb
+F:\Lenny Face generator\Lenny Face generator\obj\Debug\Lenny Face generator.csprojResolveAssemblyReference.cache
+F:\Lenny Face generator\Lenny Face generator\obj\Debug\Lenny Face generator.dll
+F:\Lenny Face generator\Lenny Face generator\obj\Debug\Lenny Face generator.pdb
+F:\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny Face generator.dll
+F:\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny Face generator.pdb
+F:\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny_Face_generator.Lenny_Face_generator.apk
+F:\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny_Face_generator.Lenny_Face_generator-Signed.apk
+F:\Lenny Face generator\Lenny Face generator\obj\Debug\android\bin\Lenny_Face_generator.Lenny_Face_generator.apk
+F:\Lenny Face generator\Lenny Face generator\obj\Debug\res\layout\main.xml
+F:\Lenny Face generator\Lenny Face generator\obj\Debug\res\values\strings.xml
+F:\Lenny Face generator\Lenny Face generator\obj\Debug\res\drawable\icon.png
+F:\Lenny Face generator\Lenny Face generator\obj\Debug\res\values\theme.xml
+F:\Lenny Face generator\Lenny Face generator\obj\Debug\res\drawable\lennyface.png
+F:\Lenny Face generator\Lenny Face generator\obj\Debug\R.cs.flag
+F:\Lenny Face generator\Lenny Face generator\obj\Debug\uploadflags.txt
+F:\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny Face generator.dll.mdb
+F:\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny Face generator.dllLenny Face generator.dll.mdb
+F:\Lenny Face generator\Lenny Face generator\obj\Debug\android\assets\Lenny Face generator.dll.mdb
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny Face generator.dll
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny Face generator.pdb
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny_Face_generator.Lenny_Face_generator.apk
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny_Face_generator.Lenny_Face_generator-Signed.apk
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\obj\Debug\Lenny Face generator.csprojResolveAssemblyReference.cache
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\obj\Debug\Lenny Face generator.dll
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\obj\Debug\Lenny Face generator.pdb
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\obj\Debug\android\bin\Lenny_Face_generator.Lenny_Face_generator.apk
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\obj\Debug\res\layout\main.xml
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\obj\Debug\res\values\strings.xml
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\obj\Debug\res\drawable\icon.png
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\obj\Debug\res\values\theme.xml
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\obj\Debug\res\drawable\lennyface.png
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\obj\Debug\R.cs.flag
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\obj\Debug\uploadflags.txt
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny Face generator.dll.mdb
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\bin\Debug\Lenny Face generator.dllLenny Face generator.dll.mdb
+C:\Users\logan\Desktop\Lenny Face generator\Lenny Face generator\obj\Debug\android\assets\Lenny Face generator.dll.mdb

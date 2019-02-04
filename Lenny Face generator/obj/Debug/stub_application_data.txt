@@ -1,0 +1,2 @@
+android.app.Application
+Lenny_Face_generator.Lenny_Face_generator

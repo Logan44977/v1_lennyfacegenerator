@@ -15,6 +15,10 @@ using Android.App;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
+[assembly: Application(Theme ="@android:style/Theme.Material.Light.DarkActionBar")]
+
+
+
 
 // Version information for an assembly consists of the following four values:
 //
@@ -28,3 +32,10 @@ using Android.App;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+
+//#if  DEBUG
+//[assembly: Application(debuggable = true)]
+//#else
+//[assembly: Application(Debuggable = false)]
+//#endif
+
